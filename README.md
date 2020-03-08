@@ -7,3 +7,4 @@
 - [3.5博弈论介绍1](https://www.bilibili.com/video/av92924837)
 - [3.5博弈论介绍2](https://www.bilibili.com/video/av92927501)
 - [3.5博弈论介绍3](https://www.bilibili.com/video/av92930850)
+2. 3月12日第二次课。第二次课，我们将学习完全信息的静态博弈的基本理论，包括博弈的策略式表述、博弈的三要素、占优策略、严格劣势策略、重复剔除劣势策略、纳什均衡、最优反应。请同学下载课件[完全信息的静态博弈](https://github.com/binwangwork/gameTheory/blob/master/%E4%B8%80.1%20%E5%AE%8C%E5%85%A8%E4%BF%A1%E6%81%AF%E7%9A%84%E9%9D%99%E6%80%81%E5%8D%9A%E5%BC%88.pdf)，课后完成作业1.3、1.4、1.5。
