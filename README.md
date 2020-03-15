@@ -13,3 +13,11 @@
 - [3.12完全信息的静态博弈2](https://www.bilibili.com/video/av94697786/)
 - [3.12完全信息的静态博弈3](https://www.bilibili.com/video/av94727769/)
 - [3.12完全信息的静态博弈4](https://www.bilibili.com/video/av94727897/)
+
+2. 3月19日第三次课。第三次课，我们将学习纳什均衡的概念、最优反应以及纳什均衡的案例鹰鸽博弈、性别博弈。请同学下载课件[纳什均衡案例分析](https://github.com/binwangwork/gameTheory/blob/master/%E4%B8%80.2%20%E7%BA%B3%E4%BB%80%E5%9D%87%E8%A1%A1%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90.pdf)，课后完成作业1.6,1.7,1.8。
+- [3.19完全信息的静态博弈5](https://www.bilibili.com/video/av94696732/)
+- [3.19完全信息的静态博弈6](https://www.bilibili.com/video/av94697786/)
+- [3.19完全信息的静态博弈7](https://www.bilibili.com/video/av94727769/)
+- [3.19纳什均衡案例分析1](https://www.bilibili.com/video/av94727769/)
+其后，请同学们登陆腾讯会议交流答疑半小时。
+
