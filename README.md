@@ -19,5 +19,6 @@
 - [3.19完全信息的静态博弈6](https://www.bilibili.com/video/av94697786/)
 - [3.19完全信息的静态博弈7](https://www.bilibili.com/video/av94727769/)
 - [3.19纳什均衡案例分析1](https://www.bilibili.com/video/av94727769/)
+
 其后，请同学们登陆腾讯会议交流答疑半小时。
 
