@@ -14,11 +14,17 @@
 - [3.12完全信息的静态博弈3](https://www.bilibili.com/video/av94727769/)
 - [3.12完全信息的静态博弈4](https://www.bilibili.com/video/av94727897/)
 
-2. 3月19日第三次课。第三次课，我们将学习纳什均衡的概念、最优反应以及纳什均衡的案例鹰鸽博弈、性别博弈。请同学下载课件[纳什均衡案例分析](https://github.com/binwangwork/gameTheory/blob/master/%E4%B8%80.2%20%E7%BA%B3%E4%BB%80%E5%9D%87%E8%A1%A1%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90.pdf)，课后完成作业1.6,1.7,1.8。请点击以下视频听课，其后登陆腾讯会议交流答疑半小时。
+3. 3月19日第三次课。第三次课，我们将学习纳什均衡的概念、最优反应以及纳什均衡的案例鹰鸽博弈、性别博弈。请同学下载课件[纳什均衡案例分析](https://github.com/binwangwork/gameTheory/blob/master/%E4%B8%80.2%20%E7%BA%B3%E4%BB%80%E5%9D%87%E8%A1%A1%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90.pdf)，课后完成作业1.6,1.7,1.8。请点击以下视频听课，其后登陆腾讯会议交流答疑半小时。
 - [3.19完全信息的静态博弈5](https://www.bilibili.com/video/av96521858/)
 - [3.19完全信息的静态博弈6](https://www.bilibili.com/video/av96521905/)
 - [3.19完全信息的静态博弈7](https://www.bilibili.com/video/av96521588/)
 - [3.19纳什均衡案例分析1](https://www.bilibili.com/video/av96521782/)
+
+4. 3月26日第四次课。第四次课，我们继续学习纳什均衡的案例如协调博弈、银行挤兑、公地的悲剧。请点击以下视频听课，其后11:40登陆腾讯会议（会议id: 938 252 170）交流答疑半小时。
+- [3.26纳什均衡案例分析2](https://www.bilibili.com/video/av96521858/)
+- [3.26纳什均衡案例分析3](https://www.bilibili.com/video/av96521905/)
+- [3.26纳什均衡案例分析4](https://www.bilibili.com/video/av96521588/)
+- [3.26纳什均衡案例分析5](https://www.bilibili.com/video/av96521782/)
 
 
 
