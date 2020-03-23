@@ -21,10 +21,10 @@
 - [3.19纳什均衡案例分析1](https://www.bilibili.com/video/av96521782/)
 
 4. 3月26日第四次课。第四次课，我们继续学习纳什均衡的案例如协调博弈、银行挤兑、公地的悲剧。请点击以下视频听课，其后11:40登陆腾讯会议（会议id: 938 252 170）交流答疑半小时。
-- [3.26纳什均衡案例分析2](https://www.bilibili.com/video/av96521858/)
-- [3.26纳什均衡案例分析3](https://www.bilibili.com/video/av96521905/)
-- [3.26纳什均衡案例分析4](https://www.bilibili.com/video/av96521588/)
-- [3.26纳什均衡案例分析5](https://www.bilibili.com/video/av96521782/)
+- [3.26纳什均衡案例分析2](https://www.bilibili.com/video/BV1zE411F7Ci/)
+- [3.26纳什均衡案例分析3](https://www.bilibili.com/video/BV1zE411F7SZ/)
+- [3.26纳什均衡案例分析4](https://www.bilibili.com/video/BV1rE411F7vg/)
+- [3.26纳什均衡案例分析5](https://www.bilibili.com/video/BV1rE411F7Yr/)
 
 
 
