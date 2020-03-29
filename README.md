@@ -26,5 +26,9 @@
 - [3.26纳什均衡案例分析4](https://www.bilibili.com/video/BV1rE411F7vg/)
 - [3.26纳什均衡案例分析5](https://www.bilibili.com/video/BV1rE411F7Yr/)
 
-
-
+4. 4月2日第五次课。第五次课，我们继续学习纳什均衡的案例如公地的悲剧、古诺模型、贝特兰德模型。请点击以下视频听课，其后11:40登陆腾讯会议（会议id: 650 072 361）交流答疑半小时。
+- [4.2纳什均衡案例分析6](https://www.bilibili.com/video/BV1zE411F7Ci/)
+- [4.2纳什均衡案例分析7](https://www.bilibili.com/video/BV1zE411F7Ci/)
+- [4.2纳什均衡案例分析8](https://www.bilibili.com/video/BV1zE411F7Ci/)
+- [4.2纳什均衡案例分析9](https://www.bilibili.com/video/BV1zE411F7Ci/)
+- [4.2纳什均衡案例分析10](https://www.bilibili.com/video/BV1zE411F7Ci/)
