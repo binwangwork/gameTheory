@@ -26,9 +26,16 @@
 - [3.26纳什均衡案例分析4](https://www.bilibili.com/video/BV1rE411F7vg/)
 - [3.26纳什均衡案例分析5](https://www.bilibili.com/video/BV1rE411F7Yr/)
 
-4. 4月2日第五次课。第五次课，我们继续学习纳什均衡的案例如公地的悲剧、古诺模型、贝特兰德模型。请点击以下视频听课，其后11:40登陆腾讯会议（会议id: 650 072 361）交流答疑半小时。
+5. 4月2日第五次课。第五次课，我们继续学习纳什均衡的案例如公地的悲剧、古诺模型、贝特兰德模型。请点击以下视频听课，其后11:40登陆腾讯会议（会议id: 650 072 361）交流答疑半小时。
 - [4.2纳什均衡案例分析6](https://www.bilibili.com/video/BV1y7411D7dG/)
 - [4.2纳什均衡案例分析7](https://www.bilibili.com/video/BV1o7411D76j/)
 - [4.2纳什均衡案例分析8](https://www.bilibili.com/video/BV1f7411D7E1/)
 - [4.2纳什均衡案例分析9](https://www.bilibili.com/video/BV1f7411D7xj/)
 - [4.2纳什均衡案例分析10](https://www.bilibili.com/video/BV1Z7411D76i/)
+
+6. 4月9日第六次课。第六次课，我们继续学习混合策略以及混合策略纳什均衡，请下载课件[混合策略](https://github.com/binwangwork/gameTheory/blob/master/%E4%B8%80.3%20%E6%B7%B7%E5%90%88%E7%AD%96%E7%95%A5%E7%BA%B3%E4%BB%80%E5%9D%87%E8%A1%A1.pdf)。请点击以下视频听课，其后11:40登陆腾讯会议（会议id: 444 111 301）交流答疑半小时。
+- [4.9混合策略1](https://www.bilibili.com/video/BV1y7411D7dG/)
+- [4.9混合策略2](https://www.bilibili.com/video/BV1y7411D7dG/)
+- [4.9混合策略3](https://www.bilibili.com/video/BV1y7411D7dG/)
+- [4.9混合策略4](https://www.bilibili.com/video/BV1y7411D7dG/)
+- [4.9混合策略5](https://www.bilibili.com/video/BV1y7411D7dG/)
