@@ -39,3 +39,10 @@
 - [4.9混合策略3](https://www.bilibili.com/video/BV1Z54y1X739/)
 - [4.9混合策略4](https://www.bilibili.com/video/BV1xp4y1C7vX/)
 - [4.9混合策略5](https://www.bilibili.com/video/BV1de411x7dU/)
+
+7. 4月16日第七次课。第七次课，我们继续学习混合策略纳什均衡的案例，请下载更新的课件[混合策略](https://github.com/binwangwork/gameTheory/blob/master/%E4%B8%80.3%20%E6%B7%B7%E5%90%88%E7%AD%96%E7%95%A5%E7%BA%B3%E4%BB%80%E5%9D%87%E8%A1%A1.pdf)。请点击以下视频听课，其后11:30登陆腾讯会议（会议id: 532 099 916）交流答疑半小时。
+- [4.16混合策略6](https://www.bilibili.com/video/BV1sg4y187N8/)
+- [4.16混合策略7](https://www.bilibili.com/video/BV1sg4y187N8/)
+- [4.16混合策略8](https://www.bilibili.com/video/BV1sg4y187N8/)
+- [4.16混合策略9](https://www.bilibili.com/video/BV1sg4y187N8/)
+- [4.16混合策略10](https://www.bilibili.com/video/BV1sg4y187N8/)
