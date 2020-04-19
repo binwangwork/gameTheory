@@ -46,3 +46,8 @@
 - [4.16混合策略8](https://www.bilibili.com/video/BV1CV411o7Yf/)
 - [4.16混合策略9](https://www.bilibili.com/video/BV1ia4y1t7AE/)
 - [4.16混合策略10](https://www.bilibili.com/video/BV11K411L7Yd/)
+
+8. 4月23日第八次课。第八次课，我们学习动态博弈、后向归纳、不可信的承诺与威胁、子博弈精炼纳什均衡，请下载更新的课件[完全信息的动态博弈](https://github.com/binwangwork/gameTheory/blob/master/%E4%B8%80.3%20%E6%B7%B7%E5%90%88%E7%AD%96%E7%95%A5%E7%BA%B3%E4%BB%80%E5%9D%87%E8%A1%A1.pdf)。请点击以下视频听课，其后11:30登陆腾讯会议（会议id: 358 029 983）交流答疑四十分钟。
+- [4.23动态博弈1](https://www.bilibili.com/video/BV1mz411b7mJ/)
+- [4.23动态博弈1](https://www.bilibili.com/video/BV1mz411b7mJ/)
+- [4.23动态博弈1](https://www.bilibili.com/video/BV1mz411b7mJ/)
