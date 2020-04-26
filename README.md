@@ -52,7 +52,7 @@
 - [4.23动态博弈2](https://www.bilibili.com/video/bv1Cz411B7ui)
 - [4.23动态博弈3](https://www.bilibili.com/video/bv1EQ4y1T7Xh)
 
-9. 4月30日第九次课。第八次课，我们继续学习信息集、子博弈、子博弈精炼纳什均衡，请下载更新的课件[完全信息的动态博弈](https://github.com/binwangwork/gameTheory/blob/master/%E4%BA%8C.1%20%E5%AE%8C%E5%85%A8%E4%BF%A1%E6%81%AF%E7%9A%84%E5%8A%A8%E6%80%81%E5%8D%9A%E5%BC%88.pdf)。请点击以下视频听课，其后11:35登陆腾讯会议（会议id: 731 646 460）交流答疑三十五分钟。
+9. 4月30日第九次课。第九次课，我们继续学习信息集、子博弈、子博弈精炼纳什均衡，请下载更新的课件[完全信息的动态博弈](https://github.com/binwangwork/gameTheory/blob/master/%E4%BA%8C.1%20%E5%AE%8C%E5%85%A8%E4%BF%A1%E6%81%AF%E7%9A%84%E5%8A%A8%E6%80%81%E5%8D%9A%E5%BC%88.pdf)。请点击以下视频听课，其后11:35登陆腾讯会议（会议id: 731 646 460）交流答疑三十五分钟。
 - [4.30动态博弈4](https://www.bilibili.com/video/bv13t4y127uc)
 - [4.30动态博弈5](https://www.bilibili.com/video/bv13t4y127uc)
 - [4.30动态博弈6](https://www.bilibili.com/video/bv13t4y127uc)
