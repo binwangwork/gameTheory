@@ -56,3 +56,8 @@
 - [4.30动态博弈4](https://www.bilibili.com/video/bv1rT4y1g7sq)
 - [4.30动态博弈5](https://www.bilibili.com/video/bv1ii4y1t7QN)
 - [4.30动态博弈6](https://www.bilibili.com/video/bv1Ca4y1v7bg)
+
+10. 5月7日第十次课。第十次课，我们继续学习信息集、子博弈、子博弈精炼纳什均衡，并且澄清了同学们关于动态博弈中策略的疑惑，请下载答疑文档[例子](https://github.com/binwangwork/gameTheory/blob/master/%E4%BA%8C.1%20%E5%AE%8C%E5%85%A8%E4%BF%A1%E6%81%AF%E7%9A%84%E5%8A%A8%E6%80%81%E5%8D%9A%E5%BC%88.pdf)。请点击以下视频听课，其后11:45登陆腾讯会议（会议id: 715 241 086）交流答疑三十五分钟。
+- [5.7动态博弈7](https://www.bilibili.com/video/bv1rT4y1g7sq)
+- [5.7动态博弈案例1](https://www.bilibili.com/video/bv1ii4y1t7QN)
+- [5.7动态博弈的策略](https://www.bilibili.com/video/bv1Ca4y1v7bg)
