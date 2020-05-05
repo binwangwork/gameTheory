@@ -4,7 +4,7 @@
 这是博弈论基础的课程主页，请暨南大学的同学们通过此网站下载课程材料。请点击课件，然后点download下载。
 
 课件：
-- [课程大纲](https://github.com/binwangwork/gameTheory/blob/master/%E6%95%99%E5%AD%A6%E5%A4%A7%E7%BA%B2.pdf)以及[博弈论介绍](https://github.com/binwangwork/gameTheory/blob/master/%E5%85%88%E5%AF%BC%E8%AF%BE%20%E5%8D%9A%E5%BC%88%E8%AE%BA%E7%AE%80%E4%BB%8B.pdf)
+- [课程大纲](https://github.com/binwangwork/gameTheory/blob/master/%E6%95%99%E5%AD%A6%E5%A4%A7%E7%BA%B2.pdf)
 - [博弈论介绍](https://github.com/binwangwork/gameTheory/blob/master/%E5%85%88%E5%AF%BC%E8%AF%BE%20%E5%8D%9A%E5%BC%88%E8%AE%BA%E7%AE%80%E4%BB%8B.pdf)
 - [完全信息的静态博弈](https://github.com/binwangwork/gameTheory/blob/master/%E4%B8%80.1%20%E5%AE%8C%E5%85%A8%E4%BF%A1%E6%81%AF%E7%9A%84%E9%9D%99%E6%80%81%E5%8D%9A%E5%BC%88.pdf)
 - [纳什均衡案例分析](https://github.com/binwangwork/gameTheory/blob/master/%E4%B8%80.2%20%E7%BA%B3%E4%BB%80%E5%9D%87%E8%A1%A1%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90.pdf)
