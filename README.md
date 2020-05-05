@@ -57,7 +57,7 @@
 - [4.30动态博弈5](https://www.bilibili.com/video/bv1ii4y1t7QN)
 - [4.30动态博弈6](https://www.bilibili.com/video/bv1Ca4y1v7bg)
 
-10. 5月7日第十次课。第十次课，我们继续学习信息集、子博弈、子博弈精炼纳什均衡，并且澄清了同学们关于动态博弈中策略的疑惑。请点击以下视频听课，其后11:45登陆腾讯会议（会议id: 715 241 086）交流答疑二十五分钟。
+10. 5月7日第十次课。第十次课，我们继续学习信息集、子博弈、子博弈精炼纳什均衡，讲述斯坦科尔伯格模型，并且澄清了同学们关于动态博弈中策略的疑惑，请下载课件[动态博弈案例分析](https://github.com/binwangwork/gameTheory/blob/master/%E4%BA%8C.2%20%E5%8A%A8%E6%80%81%E5%8D%9A%E5%BC%88%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90.pdf)以及[答疑文件](https://github.com/binwangwork/gameTheory/blob/master/%E4%BE%8B%E5%AD%90.pdf)。请点击以下视频听课，其后11:45登陆腾讯会议（会议id: 715 241 086）交流答疑二十五分钟。
 - [5.7动态博弈7](https://www.bilibili.com/video/BV1FK4y187Vr)
 - [5.7动态博弈案例1](https://www.bilibili.com/video/BV1SK4y1b7P6)
 - [5.7动态博弈的策略](https://www.bilibili.com/video/BV1RC4y1W7uJ)
