@@ -76,7 +76,7 @@
 - [5.14重复博弈3](https://www.bilibili.com/video/BV1xg4y1B7tT/)
 
 12. 5月14日第十二次课。第十二次课，我们学习无限阶段重复博弈。请点击以下视频听课。
-- [5.14重复博弈4](https://www.bilibili.com/video/BV1r54y1X7re/)
-- [5.14重复博弈5](https://www.bilibili.com/video/BV1m5411s78r/)
-- [5.14重复博弈6](https://www.bilibili.com/video/BV1xg4y1B7tT/)
-- [5.14重复博弈7](https://www.bilibili.com/video/BV1xg4y1B7tT/)
+- [5.14重复博弈4](https://www.bilibili.com/video/bv1a54y1D7RB)
+- [5.14重复博弈5](https://www.bilibili.com/video/bv1a54y1D7RB)
+- [5.14重复博弈6](https://www.bilibili.com/video/bv1YK411W7xV)
+- [5.14重复博弈7](https://www.bilibili.com/video/bv1xg4y1B7RH)
