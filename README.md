@@ -68,9 +68,15 @@
 - [5.7动态博弈案例1](https://www.bilibili.com/video/BV1SK4y1b7P6)
 - [5.7动态博弈的策略](https://www.bilibili.com/video/BV1RC4y1W7uJ)
 
-10. 5月14日第十一次课。第十一次课，我们学习轮流出价的讨价还价模型、两阶段动态博弈以及有限阶段重复博弈，以及两阶段银行挤兑博弈的案例。请下载课件[两阶段动态博弈和重复博弈](https://github.com/binwangwork/gameTheory/blob/master/%E4%BA%8C.3%20%E4%B8%A4%E9%98%B6%E6%AE%B5%E5%8A%A8%E6%80%81%E5%8D%9A%E5%BC%88%E5%92%8C%E9%87%8D%E5%A4%8D%E5%8D%9A%E5%BC%88.pdf)，完成作业2.4。请点击以下视频听课。
+11. 5月14日第十一次课。第十一次课，我们学习轮流出价的讨价还价模型、两阶段动态博弈以及有限阶段重复博弈，以及两阶段银行挤兑博弈的案例。请下载课件[两阶段动态博弈和重复博弈](https://github.com/binwangwork/gameTheory/blob/master/%E4%BA%8C.3%20%E4%B8%A4%E9%98%B6%E6%AE%B5%E5%8A%A8%E6%80%81%E5%8D%9A%E5%BC%88%E5%92%8C%E9%87%8D%E5%A4%8D%E5%8D%9A%E5%BC%88.pdf)，完成作业2.4。请点击以下视频听课。
 - [5.14动态博弈案例分析2](https://www.bilibili.com/video/BV1Ja4y1e7aD/)
 - [5.14动态博弈案例分析3](https://www.bilibili.com/video/BV1654y1X75i/)
 - [5.14重复博弈1](https://www.bilibili.com/video/BV1r54y1X7re/)
 - [5.14重复博弈2](https://www.bilibili.com/video/BV1m5411s78r/)
 - [5.14重复博弈3](https://www.bilibili.com/video/BV1xg4y1B7tT/)
+
+12. 5月14日第十二次课。第十二次课，我们学习无限阶段重复博弈。请点击以下视频听课。
+- [5.14重复博弈4](https://www.bilibili.com/video/BV1r54y1X7re/)
+- [5.14重复博弈5](https://www.bilibili.com/video/BV1m5411s78r/)
+- [5.14重复博弈6](https://www.bilibili.com/video/BV1xg4y1B7tT/)
+- [5.14重复博弈7](https://www.bilibili.com/video/BV1xg4y1B7tT/)
