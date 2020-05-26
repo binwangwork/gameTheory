@@ -82,7 +82,7 @@
 - [5.21重复博弈6](https://www.bilibili.com/video/bv1YK411W7xV)
 - [5.21重复博弈7](https://www.bilibili.com/video/bv1xg4y1B7RH)
 
-13. 5月28日第十三次课。第十三次课，我们学习不完全信息的静态博弈和动态博弈，并初步介绍了隐藏信息和隐藏行为的基本含义。请下载课件[不完全信息的博弈](https://github.com/binwangwork/gameTheory/blob/master/%E4%B8%89.1.%E4%B8%8D%E5%AE%8C%E5%85%A8%E4%BF%A1%E6%81%AF%E5%8D%9A%E5%BC%88.pdf)。请点击以下视频听课。
+13. 5月28日第十三次课。第十三次课，我们学习不完全信息的静态博弈和动态博弈，并初步介绍了隐藏信息和隐藏行动的基本含义。请下载课件[不完全信息的博弈](https://github.com/binwangwork/gameTheory/blob/master/%E4%B8%89.1.%E4%B8%8D%E5%AE%8C%E5%85%A8%E4%BF%A1%E6%81%AF%E5%8D%9A%E5%BC%88.pdf)。请点击以下视频听课。
 - [5.28不完全信息的博弈1](https://www.bilibili.com/video/BV1DV411C7xP/)
 - [5.28不完全信息的博弈2](https://www.bilibili.com/video/BV1ZV411C7Pf/)
 - [5.28不完全信息的博弈3](https://www.bilibili.com/video/BV1Dg4y1B74k/)
