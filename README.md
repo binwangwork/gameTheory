@@ -91,6 +91,6 @@
 14. 6月4日第十四次课。第十死次课，我们继续隐藏信息和隐藏行动问题，以及这两种问题造成的逆向选择与道德风险，并介绍了信号机制。请下载更新的课件课件[不完全信息的博弈](https://github.com/binwangwork/gameTheory/blob/master/%E4%B8%89.1.%E4%B8%8D%E5%AE%8C%E5%85%A8%E4%BF%A1%E6%81%AF%E5%8D%9A%E5%BC%88.pdf)、[逆向选择与信号机制](https://github.com/binwangwork/gameTheory/blob/master/%E4%B8%89.2%20%E9%80%86%E5%90%91%E9%80%89%E6%8B%A9%E4%B8%8E%E4%BF%A1%E5%8F%B7%E6%9C%BA%E5%88%B6.pdf)。请点击以下视频听课。
 - [6.4不完全信息的博弈5](https://www.bilibili.com/video/BV1pk4y1r738)
 - [6.4不完全信息的博弈6](https://www.bilibili.com/video/BV1Vv41167XG)
-- [6.4信号机制1](https://www.bilibili.com/video/BV1ZV411C7Pf/)
-- [6.4信号机制2](https://www.bilibili.com/video/BV1ZV411C7Pf/)
+- [6.4信号机制1](https://www.bilibili.com/video/BV1pp4y1D7nZ/)
+- [6.4信号机制2](https://www.bilibili.com/video/BV1DC4y1h7Ln/)
 - [6.4信号机制3](https://www.bilibili.com/video/BV1CQ4y1P7QY)
