@@ -95,7 +95,7 @@
 - [6.4信号机制2](https://www.bilibili.com/video/BV1DC4y1h7Ln/)
 - [6.4信号机制3](https://www.bilibili.com/video/BV1CQ4y1P7QY)
 
-15. 6月11日第十五次课。第十五次课，我们讲述机制设计。请下载课件[逆向选择与机制设计](https://github.com/binwangwork/gameTheory/blob/master/%E4%B8%89.3%20%E9%80%86%E5%90%91%E9%80%89%E6%8B%A9%E4%B8%8E%E6%9C%BA%E5%88%B6%E8%AE%BE%E8%AE%A1.pdf)。请点击以下视频听课。其后11:50登陆腾讯会议（会议id: 152 732 945）交流答疑二十分钟。
+15. 6月11日第十五次课。第十五次课，我们讲述机制设计。请下载课件[逆向选择与机制设计](https://github.com/binwangwork/gameTheory/blob/master/%E4%B8%89.3%20%E9%80%86%E5%90%91%E9%80%89%E6%8B%A9%E4%B8%8E%E6%9C%BA%E5%88%B6%E8%AE%BE%E8%AE%A1.pdf)。请点击以下视频听课。其后11:45登陆腾讯会议（会议id: 152 732 945）交流答疑二十五分钟。
 - [6.11信号机制4](https://www.bilibili.com/video/BV1NC4y1a7sR/)
 - [6.11机制设计1](https://www.bilibili.com/video/BV1Ei4y1x7vk/)
 - [6.11机制设计2](https://www.bilibili.com/video/BV1FC4y1a7QB/)
