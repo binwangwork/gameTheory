@@ -7,7 +7,7 @@
 - [课程大纲](https://github.com/binwangwork/gameTheory/blob/master/%E6%95%99%E5%AD%A6%E5%A4%A7%E7%BA%B2.pdf)，[博弈论介绍](https://github.com/binwangwork/gameTheory/blob/master/%E5%85%88%E5%AF%BC%E8%AF%BE%20%E5%8D%9A%E5%BC%88%E8%AE%BA%E7%AE%80%E4%BB%8B.pdf)
 - [完全信息的静态博弈](https://github.com/binwangwork/gameTheory/blob/master/%E4%B8%80.1%20%E5%AE%8C%E5%85%A8%E4%BF%A1%E6%81%AF%E7%9A%84%E9%9D%99%E6%80%81%E5%8D%9A%E5%BC%88.pdf)，[纳什均衡案例分析](https://github.com/binwangwork/gameTheory/blob/master/%E4%B8%80.2%20%E7%BA%B3%E4%BB%80%E5%9D%87%E8%A1%A1%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90.pdf)，[混合策略](https://github.com/binwangwork/gameTheory/blob/master/%E4%B8%80.3%20%E6%B7%B7%E5%90%88%E7%AD%96%E7%95%A5%E7%BA%B3%E4%BB%80%E5%9D%87%E8%A1%A1.pdf)
 - [完全信息的动态博弈](https://github.com/binwangwork/gameTheory/blob/master/%E4%BA%8C.1%20%E5%AE%8C%E5%85%A8%E4%BF%A1%E6%81%AF%E7%9A%84%E5%8A%A8%E6%80%81%E5%8D%9A%E5%BC%88.pdf)，[动态博弈案例分析](https://github.com/binwangwork/gameTheory/blob/master/%E4%BA%8C.2%20%E5%8A%A8%E6%80%81%E5%8D%9A%E5%BC%88%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90.pdf)，[两阶段动态博弈和重复博弈](https://github.com/binwangwork/gameTheory/blob/master/%E4%BA%8C.3%20%E4%B8%A4%E9%98%B6%E6%AE%B5%E5%8A%A8%E6%80%81%E5%8D%9A%E5%BC%88%E5%92%8C%E9%87%8D%E5%A4%8D%E5%8D%9A%E5%BC%88.pdf)
-- [不完全信息的博弈](https://github.com/binwangwork/gameTheory/blob/master/%E4%B8%89.1%20%E4%B8%8D%E5%AE%8C%E5%85%A8%E4%BF%A1%E6%81%AF%E7%9A%84%E5%8D%9A%E5%BC%88.pdf)、[逆向选择与信号机制](https://github.com/binwangwork/gameTheory/blob/master/%E4%B8%89.2%20%E9%80%86%E5%90%91%E9%80%89%E6%8B%A9%E4%B8%8E%E4%BF%A1%E5%8F%B7%E6%9C%BA%E5%88%B6.pdf)
+- [不完全信息的博弈](https://github.com/binwangwork/gameTheory/blob/master/%E4%B8%89.1%20%E4%B8%8D%E5%AE%8C%E5%85%A8%E4%BF%A1%E6%81%AF%E7%9A%84%E5%8D%9A%E5%BC%88.pdf)、[逆向选择与信号机制](https://github.com/binwangwork/gameTheory/blob/master/%E4%B8%89.2%20%E9%80%86%E5%90%91%E9%80%89%E6%8B%A9%E4%B8%8E%E4%BF%A1%E5%8F%B7%E6%9C%BA%E5%88%B6.pdf)、[逆向选择与机制设计](https://github.com/binwangwork/gameTheory/blob/master/%E4%B8%89.3%20%E9%80%86%E5%90%91%E9%80%89%E6%8B%A9%E4%B8%8E%E6%9C%BA%E5%88%B6%E8%AE%BE%E8%AE%A1.pdf)
 
 1. 3月5日第一次课。第一节课，我们将介绍博弈论基础的[课程大纲](https://github.com/binwangwork/gameTheory/blob/master/%E6%95%99%E5%AD%A6%E5%A4%A7%E7%BA%B2.pdf)以及[博弈论介绍](https://github.com/binwangwork/gameTheory/blob/master/%E5%85%88%E5%AF%BC%E8%AF%BE%20%E5%8D%9A%E5%BC%88%E8%AE%BA%E7%AE%80%E4%BB%8B.pdf)。请同学们阅读诺贝尔奖委员会发的新闻稿[1994](	https://www.nobelprize.org/prizes/economic-sciences/1994/summary/)、[1996](https://www.nobelprize.org/prizes/economic-sciences/1996/press-release/)、[2001](https://www.nobelprize.org/prizes/economic-sciences/2001/popular-information/)、[2005](https://www.nobelprize.org/uploads/2018/06/popular-economicsciences2005.pdf)、[2007](https://www.nobelprize.org/uploads/2018/06/popular-economicsciences2007.pdf)、[2012](https://www.nobelprize.org/uploads/2018/06/popular-economicsciences2012.pdf)、[2014](https://www.nobelprize.org/uploads/2018/06/popular-economicsciences2014.pdf)、[2016](https://www.nobelprize.org/uploads/2018/06/popular-economicsciences2016.pdf)。课后请完成作业1.1、1.2。请点击以下视频听课：
 - [3.5课程大纲](https://www.bilibili.com/video/av90632776/)
@@ -88,9 +88,15 @@
 - [5.28不完全信息的博弈3](https://www.bilibili.com/video/BV1Dg4y1B74k/)
 - [5.28不完全信息的博弈4](https://www.bilibili.com/video/BV1vZ4y1p7kt/)
 
-14. 6月4日第十四次课。第十死次课，我们继续隐藏信息和隐藏行动问题，以及这两种问题造成的逆向选择与道德风险，并介绍了信号机制。请下载更新的课件课件[不完全信息的博弈](https://github.com/binwangwork/gameTheory/blob/master/%E4%B8%89.1.%E4%B8%8D%E5%AE%8C%E5%85%A8%E4%BF%A1%E6%81%AF%E5%8D%9A%E5%BC%88.pdf)、[逆向选择与信号机制](https://github.com/binwangwork/gameTheory/blob/master/%E4%B8%89.2%20%E9%80%86%E5%90%91%E9%80%89%E6%8B%A9%E4%B8%8E%E4%BF%A1%E5%8F%B7%E6%9C%BA%E5%88%B6.pdf)。请点击以下视频听课。
+14. 6月4日第十四次课。第十四次课，我们继续隐藏信息和隐藏行动问题，以及这两种问题造成的逆向选择与道德风险，并介绍了信号机制。请下载更新的课件课件[不完全信息的博弈](https://github.com/binwangwork/gameTheory/blob/master/%E4%B8%89.1.%E4%B8%8D%E5%AE%8C%E5%85%A8%E4%BF%A1%E6%81%AF%E5%8D%9A%E5%BC%88.pdf)、[逆向选择与信号机制](https://github.com/binwangwork/gameTheory/blob/master/%E4%B8%89.2%20%E9%80%86%E5%90%91%E9%80%89%E6%8B%A9%E4%B8%8E%E4%BF%A1%E5%8F%B7%E6%9C%BA%E5%88%B6.pdf)。请点击以下视频听课。
 - [6.4不完全信息的博弈5](https://www.bilibili.com/video/BV1pk4y1r738)
 - [6.4不完全信息的博弈6](https://www.bilibili.com/video/BV1Vv41167XG)
 - [6.4信号机制1](https://www.bilibili.com/video/BV1pp4y1D7nZ/)
 - [6.4信号机制2](https://www.bilibili.com/video/BV1DC4y1h7Ln/)
 - [6.4信号机制3](https://www.bilibili.com/video/BV1CQ4y1P7QY)
+
+15. 6月11日第十五次课。第十五次课，我们讲述机制设计。请下载课件[逆向选择与机制设计](https://github.com/binwangwork/gameTheory/blob/master/%E4%B8%89.3%20%E9%80%86%E5%90%91%E9%80%89%E6%8B%A9%E4%B8%8E%E6%9C%BA%E5%88%B6%E8%AE%BE%E8%AE%A1.pdf)。请点击以下视频听课。其后11:50登陆腾讯会议（会议id: 152 732 945）交流答疑二十分钟。
+- [6.11信号机制4](https://www.bilibili.com/video/BV1NC4y1a7sR/)
+- [6.11机制设计1](https://www.bilibili.com/video/BV1Ei4y1x7vk/)
+- [6.11机制设计2](https://www.bilibili.com/video/BV1FC4y1a7QB/)
+- [6.11机制设计3](https://www.bilibili.com/video/BV1m5411p7Hn/)
