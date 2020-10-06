@@ -1,7 +1,7 @@
 # 博弈论基础
 ## 2020年春季
 ### 王彬，暨南大学，binwang@jnu.edu.cn
-这是博弈论基础的课程主页，请暨南大学的同学们通过此网站下载课程材料。请点击课件，然后点download下载。如果无法下载，请点击**[百度网盘](https://pan.baidu.com/s/1bLWAP5lG6Q8D8ShKUbOTvw)**，提取码: x2yf。
+这是博弈论基础的课程主页，请暨南大学的同学们通过此网站下载课程材料。请点击课件，然后点download下载。如果无法下载，请点击 **[百度网盘](https://pan.baidu.com/s/1bLWAP5lG6Q8D8ShKUbOTvw)** ，提取码: x2yf。
 
 课件：
 - [课程大纲](https://github.com/binwangwork/gameTheory/blob/master/%E6%95%99%E5%AD%A6%E5%A4%A7%E7%BA%B2.pdf)，[博弈论介绍](https://github.com/binwangwork/gameTheory/blob/master/%E5%85%88%E5%AF%BC%E8%AF%BE%20%E5%8D%9A%E5%BC%88%E8%AE%BA%E7%AE%80%E4%BB%8B.pdf)
